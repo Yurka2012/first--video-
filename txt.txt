@@ -7,4 +7,3 @@
 <!-- отступ -->
 <a href="https://code.visualstudio.com" title="1">ссылка</a>
 <img src="./img/img.jpeg" alt="картинка">
-<img src="./img/Снимок экрана 2023-05-07 в 20.02.41.png">
